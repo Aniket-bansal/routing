@@ -1,0 +1,11 @@
+.product-anchor{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    margin-left:41%;
+    margin-top: 10px;
+    /* border: 1px solid red; */
+    font-size: larger;
+    font-weight: bold;
+    color: red;
+}
